@@ -7,7 +7,10 @@ date: 2022-02-07
 lastmod: 2022-02-08
 ---
 
-DirtViz is a project to visualize data collected from sensors deployed in sensor networks. We have deployed a number of sensors measuring qualities like soil moisture, temperature, current and voltage in outdoor settings. This project involves extending our existing visualization stack, DirtViz 1.0 (see github), and expanding it to version 2.0. The project goal is to create a fully-fledged dataviz tool tailored to the types of data collected from embedded systems sensor networks.
+[Jlab in Smart Sensing](https://sensors.soe.ucsc.edu/)
+[Jlab Github](https://github.com/jlab-sensing)
+
+DirtViz is a project to visualize data collected from sensors deployed in sensor networks. We have deployed a number of sensors measuring qualities like soil moisture, temperature, current and voltage in outdoor settings. This project involves extending our existing visualization stack, [DirtViz 1.0](https://dirtviz.jlab.ucsc.edu/) (see github), and expanding it to version 2.0. The project goal is to create a fully-fledged dataviz tool tailored to the types of data collected from embedded systems sensor networks.
 
 ### Visualize Sensor Data
 
